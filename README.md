@@ -3,11 +3,7 @@
 Thank you for using IXL Assist! By accessing or using our Discord bot, you agree to comply with and be bound by the following terms and conditions of use. Please read these terms carefully before using the bot.
 
 ## Description of Service
-IXL Assist is a Discord bot designed to assist users with their IXL practice time. Users can purchase 30 minutes of IXL practice time for \$1 through the bot. The bot provides support for mathematics at a 9-10th-grade level and English at a 9-10th-grade level.
-
-## Payment and Billing
-a. **Payment:** By using our service, you agree to pay the specified fee of \$1 for 30 minutes of IXL practice time. Can be bought multiple times.
-b. **Billing:** Payments are processed through cash app and are non-refundable.
+IXL Assist is a Discord bot designed to assist users with their IXL practice time. Users can purchase 30 minutes of IXL practice time for \25 points through the bot. The bot provides support for mathematics at a 9-10th-grade level and English at a 9-10th-grade level.
 
 ## Disclaimer
 a. **As-Is Service:** IXL Assist is provided on an \"as is\" basis. We do not guarantee that the bot will always be available or error-free.
